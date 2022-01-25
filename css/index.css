@@ -16,6 +16,8 @@
     height: 100vh;
     display: block;
     grid-template-columns: 5fr 1fr;
+    background-image: url(../images/bg-pattern-desktop.svg);
+    overflow: hidden;
     
 }
 
