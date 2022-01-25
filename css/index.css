@@ -17,7 +17,7 @@
     display: block;
     grid-template-columns: 5fr 1fr;
     background-image: url(../images/bg-pattern-desktop.svg);
-    overflow: hidden;
+    overflow: auto;
     
 }
 
@@ -191,5 +191,8 @@ word-spacing: 5px;
     .body-content{
         display: block;
         text-align: left;
+    }
+    .app_main_body{
+        overflow: hidden;
     }
 }
